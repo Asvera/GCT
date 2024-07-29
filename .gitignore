@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+bin/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+lib64
+MANIFEST
+
+# Flask-specific
+instance/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+venv.bak/
+*.log
+*.cfg
+
+# Pytest cache and coverage
+.cache
+coverage/
+.tox/
+.pytest_cache/
+
+# VS Code
+.vscode/
